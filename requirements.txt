@@ -1,5 +1,5 @@
-tqdm==4.46.0
-dspy-ai==2.6.2
+tqdm==4.66.3
+dspy-ai==2.6.5
 instructor==1.7.2
 openai==1.61.1
 pydantic==2.10.6
